@@ -1,2 +1,4 @@
 # Bots-we-have-made
-<h1> we are making bots for everyone now! please wait until we publish it thank you so much</h1>
+hi thank you all for reading our ReadMe File, 
+
+We make discord bots and discord bots dashboard
